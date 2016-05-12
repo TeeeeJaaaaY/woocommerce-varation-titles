@@ -1,4 +1,4 @@
-# woocommerce-varation-titles
+# woocommerce Varation Titles
 Get the titles of variations from all attributes assigned to a product
 
 Not as simple as it should be with everything else WooCommerce and WordPress.
